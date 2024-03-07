@@ -1,8 +1,4 @@
 ---
-project:
-  type: website
-  output-dir: docs
-
 title: "Russell Luchin"
 ---
 
