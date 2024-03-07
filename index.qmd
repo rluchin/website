@@ -1,0 +1,9 @@
+---
+project:
+  type: website
+  output-dir: docs
+
+title: "Russell Luchin"
+---
+
+Emerging UX designer. Information student at University of Toronto's iSchool. Passionate about solving current UX problems to move into the future.
