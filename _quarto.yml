@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "website"
+  title: "Russell Luchin"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: pdfs/RussellLuchin_CV.pdf
+        text: CV
 
 format:
   html:
